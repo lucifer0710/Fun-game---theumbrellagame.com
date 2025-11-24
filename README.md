@@ -1,7 +1,6 @@
 # theumbrellagame.com : Fun Game
 To play the game just Google : theumbrellagame.com
 
-Created a fun game with the help of chatgpt
 # ☔ The Umbrella Game
 
 A simple yet addictive browser game where you dodge raindrops using your umbrella!  
